@@ -1,0 +1,4 @@
+rootProject.name = 'Unstargram'
+include 'unstargram-customer-api'
+include 'unstargram-common'
+
