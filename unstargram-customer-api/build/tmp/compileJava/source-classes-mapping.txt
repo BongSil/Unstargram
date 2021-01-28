@@ -1,2 +1,0 @@
-co/kr/datapia/UnstargramApiApplication.java
- co.kr.datapia.UnstargramApiApplication
